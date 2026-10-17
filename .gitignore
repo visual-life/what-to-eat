@@ -1,0 +1,23 @@
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+Desktop.ini
+.idea/
+.vscode/
+*.swp
+*.tmp
+
+# Local secrets and generated files
+.env
+.env.*
+*.pem
+*.key
+node_modules/
+__pycache__/
+*.py[cod]
+*.log
+
+# Unrelated document processing files
+out/
+source/
+scripts/
